@@ -41,16 +41,16 @@ $ python network_generate.py Quantlab <target> ../<network>/config.json --perf_l
 
 
 The `target` can be:
-```
-PULP.PULP_gvsoc - 8-core cluster execution
-PULP.PULP_NE16 - NE16 execution
-```
+
+* `PULP.PULP_gvsoc` - 8-core cluster execution
+* `PULP.PULP_NE16` - NE16 execution
+
 
 The `network` can be:
-```
-Network1 - network with a 3x3 convolution for the last layer
-Network2 - network with a 5x5 convolution for the last layer
-```
+
+* `Network1` - network with a 3x3 convolution for the last layer
+
+* `Network2` - network with a 5x5 convolution for the last layer
 
 #### 3. Build and run the code
 
