@@ -1,5 +1,4 @@
 # [APAI22-LAB09] End-to-end CNN deployment 
-****
 
 
 # 1. Setup
@@ -26,7 +25,6 @@ $ module load pulp-sdk
 $ module load dory-conda
 ```
 
-****
 
 # 2. How to run the code
 
